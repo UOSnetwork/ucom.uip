@@ -1,5 +1,5 @@
-U°Community Improvement Proposals (UIPs)
----------------------------------
+U°Community Improvement Proposals (CIPs)
+----------------------------------------
 
 This repository is for U°Community Improvement Proposals (CIPs).
 
